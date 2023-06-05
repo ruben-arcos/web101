@@ -16,7 +16,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(./nasaPage/galaxy.png);
+    background-image: url(../galaxy.png);
     background-size: cover;
     height: 450px;
     margin-top: 30px;
