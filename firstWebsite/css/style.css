@@ -48,7 +48,7 @@ h1, h2 {
 
   main {
     height: 700px;
-    background-image: url(/firstWebsite/create.png);
+    background-image: url(../create.png);
     background-size: 100% auto;
   }
 
